@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7f6f1e1a-f549-4d6f-971c-fd936579e8f2)
+
 Translator is a web application software tool that facilitate the translation of text from one language to another language using ReactJS. This application allows users to give input Text and select input and output language Format from the list of languages and uses Microsoft Translator API. Users can also reverse the source and target languages and clear the input text. The component provides a user-friendly interface for language translation, with dynamic updates and error handling. This application is implemented using ReactJS and has a simple and responsive UI.
 
 Prerequisites and Technologies:
